@@ -5,31 +5,11 @@ I'm a student interested in **Software Development, Machine Learning, and Data-d
 ### 🛠️ Skills & Tools
 
 * **Languages:** Python, Java
+* **Web Technologies:** HTML5, CSS3
 * **Machine Learning:** ML fundamentals
 * **Tools:** Git, Jira
-
-
-
-### 📚 Learning & Growth
-
-I'm continuously improving my programming, problem-solving, and machine learning skills through hands-on projects and practice.
 
 ### 🔗 Connect
 
 * GitHub: [@Maniganiga404](https://github.com/Maniganiga404)
-
-* Instagram: @mani_ganiga
-<!--
-**Maniganiga404/Maniganiga404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Instagram: [@mani_ganiga](https://instagram.com/mani_ganiga)
