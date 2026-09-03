@@ -18,7 +18,7 @@ I'm continuously improving my programming, problem-solving, and machine learning
 
 * GitHub: [@Maniganiga404](https://github.com/Maniganiga404)
 
-Instagram: @mani_ganiga
+* Instagram: @mani_ganiga
 <!--
 **Maniganiga404/Maniganiga404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
