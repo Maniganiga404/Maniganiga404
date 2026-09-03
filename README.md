@@ -8,9 +8,7 @@ I'm a student interested in **Software Development, Machine Learning, and Data-d
 * **Machine Learning:** ML fundamentals
 * **Tools:** Git, Jira
 
-### 🚀 Projects
 
-> Projects will be added here as I build and complete them.
 
 ### 📚 Learning & Growth
 
